@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PepeList>
+
+	<Pepe order="1">
+		<Name>Happy Pepe</Name>
+		<Info>This Pepe is really happy Pepe and he is having a really happy Pepe life.</Info>
+		<FavouriteFood>Burger</FavouriteFood>
+		<Rating>10</Rating>
+	</Pepe>
+	<Pepe order="2">
+		<Name>Sad Pepe</Name>
+		<Info>This Pepe is living a sad Pepe life, Pepe is sad when people dont love him.</Info>
+		<FavouriteFood>Salt</FavouriteFood>
+		<Rating>4</Rating>
+	</Pepe>
+	<Pepe order="3">
+		<Name>Strong Pepe</Name>
+		<Info>This Pepe can lift 5 Pepes at the same time, always up for lifting Pepes.</Info>
+		<FavouriteFood>Protein</FavouriteFood>
+		<Rating>80</Rating>
+	</Pepe>
+	<Pepe order="4">
+		<Name>Dj Pepe</Name>
+		<Info>Dj style is this Pepes style of life, always good at partying and Dj Pepe is always invited to one.</Info>
+		<FavouriteFood>Drop-lings</FavouriteFood>
+		<Rating>9</Rating>
+	</Pepe>
+	<Pepe order="5">
+		<Name>Piano Pepe</Name>
+		<Info>Classy Pepe that enjoys good red vine and really good classical Pepe music.</Info>
+		<FavouriteFood>Ta-Bach-cus sauce with chicken</FavouriteFood>
+		<Rating>11</Rating>
+	</Pepe>
+	<Pepe order="6">
+		<Name>Boxing Pepe</Name>
+		<Info>Boxing Pepe has better cordination and punches than Roy Jones Jr. and is the best boxer in Pepe Universe.</Info>
+		<FavouriteFood>Oponents tears</FavouriteFood>
+		<Rating>100</Rating>
+	</Pepe>
+	<Pepe order="7">
+		<Name>Dancing Pepe</Name>
+		<Info>Pepe that is soo good at cha-cha-cah and tango, that all the Pepe girls fall for him.</Info>
+		<FavouriteFood>Sushi</FavouriteFood>
+		<Rating>8</Rating>
+	</Pepe>
+	<Pepe order="8">
+		<Name>Hacker Pepe</Name>
+		<Info>Hacking Pepe can hack anyones computer in and Pepe secounds, he is known for hacking in so many Pepe games.</Info>
+		<FavouriteFood>Leftovers</FavouriteFood>
+		<Rating>999999</Rating>
+	</Pepe>
+	<Pepe order="9">
+		<Name>Programmer Pepe</Name>
+		<Info>Unlike Hacker Pepe this pepe doesnt have a life, he has a sleeping disorder and is alergic to sunlight.</Info>
+		<FavouriteFood>Anything not rotten</FavouriteFood>
+		<Rating>9001</Rating>
+	</Pepe>
+	<Pepe order="10">
+		<Name>Almighty Pepe</Name>
+		<Info>Pepe that is strongest of them all, nobody can stop him and no one is ready for so much Pepe power.</Info>
+		<FavouriteFood>Pepe Souls</FavouriteFood>
+		<Rating>9999999</Rating>
+	</Pepe>
+
+</PepeList>
